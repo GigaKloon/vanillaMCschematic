@@ -1,0 +1,4 @@
+VMS is a python package that allows users to input commands and output them as functions with the .mcfunction tag.
+Current commands include : Particle, Fill, Setblock
+This package is Vanilla Minecraft is Vanilla friendly.
+Estimated time of completion: December 25th 2024
